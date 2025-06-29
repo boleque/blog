@@ -1,0 +1,17 @@
+title: "The Code Blog"
+description: "A blog about databases, software development"
+author: "Vlad Kislitsyn"
+email: vladislav.kislitsyn@protonmail.com
+
+baseurl: "/blogs"
+url: "https://boleque.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
